@@ -2,4 +2,4 @@ Hi, I'm [Matt Gray](https://mattg.co.uk). You may know me from [my YouTube chann
 
 You can find links to all my social media at [mattg.co.uk](https://mattg.co.uk)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattgrayyes&layout=compact&exclude_repo=GBCameraDump)
+[![Star History Chart](https://api.star-history.com/svg?repos=mattgrayyes/epic,mattgrayyes/Game-Boy-Camera-Fast-Wifi-Adapter,mattgrayyes/TVA-Tempad,mattgrayyes/inky-icloud-photo-frame,mattgrayyes/imac_g3_boards&type=date&legend=top-left)](https://www.star-history.com/#mattgrayyes/epic&mattgrayyes/Game-Boy-Camera-Fast-Wifi-Adapter&mattgrayyes/TVA-Tempad&mattgrayyes/inky-icloud-photo-frame&mattgrayyes/imac_g3_boards&type=date&legend=top-left)
